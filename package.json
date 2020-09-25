@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@gamestdio/mathf": "^1.0.1",
+    "@types/noisejs": "^0.0.28",
+    "noisejs": "^2.1.0",
+    "open-simplex-noise": "^2.3.1",
+    "phaser": "^3.24.1",
+    "prando": "^5.1.2"
+  }
+}
