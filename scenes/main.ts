@@ -1,6 +1,5 @@
 import * as Phaser from "phaser";
 
-import { Chunk } from "../common/chunk";
 import { NoiseGenerator } from "../common/noise";
 import { Tile } from "../common/tiles";
 
@@ -41,7 +40,7 @@ export class GameScene extends Phaser.Scene {
       })
     })
 
-    this.cameras.main.setZoom(1);
+    this.cameras.main.setZoom(2);
   }
 
   preload() {
