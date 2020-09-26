@@ -40,7 +40,7 @@ export class GameScene extends Phaser.Scene {
       })
     })
 
-    this.cameras.main.setZoom(2);
+    this.cameras.main.setZoom(1);
   }
 
   preload() {
